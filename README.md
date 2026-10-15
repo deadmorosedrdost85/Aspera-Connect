@@ -226,4 +226,4 @@ Aspera Connect is offered as a full free version with all features unlocked and 
 Don’t wait any longer! Download Aspera Connect for free today and experience unparalleled speed in your file transfers!
 
 ---
-**Last updated:** 2026-10-15 06:38:36 UTC
+**Last updated:** 2026-10-15 12:13:59 UTC
